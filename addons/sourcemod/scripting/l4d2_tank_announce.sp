@@ -35,7 +35,7 @@ public OnTankSpawn()
 	if (!g_bIsTankAlive)
 	{
 		g_bIsTankAlive = true;
-		PrintToChatAll("\x04Tank\x01 has spawned!");
+		PrintToChatAll("\x04Taaaaaaaaaaaaaaank\x01!");
 		EmitSoundToAll("ui/pickup_secret01.wav");
 	}
 }
